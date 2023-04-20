@@ -8,13 +8,6 @@ Target: [USD Bitcoin Price](https://api.coindesk.com/v1/bpi/currentprice.json)
 
 ### TO DO
 
-* Admin
-  * Setup ticketing system
-  * Protect main branch
-  * AWS setup
-    * Add users
-    * Monitor API calls
-    * Monitor Billing
 * Data Sources
   * RSS Feeds - [RSS Feeds](https://www.repeatsoftware.com/Help/RSSFeedList.htm) + [feedparser](https://pypi.org/project/feedparser/)
     * [CBN News](https://www1.cbn.com/rss-cbn-articles-cbnnews.xml)
