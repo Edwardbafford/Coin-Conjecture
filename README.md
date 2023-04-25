@@ -23,10 +23,6 @@ Target: [USD Bitcoin Price](https://api.coindesk.com/v1/bpi/currentprice.json)
   * Predict trends
   * Predict volatility, 
   * Create datasets based on distance from the present
-  * Vola
-* API 
-  * AWS API Gateway + AWS Lambda with embedded model/s
-  * API Keys
 * Automated Deployment
 * Automated Infrastructure
 * Automated Monitoring
