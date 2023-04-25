@@ -4,7 +4,7 @@ Predict BitCoin prices, how original :)
 
 ML Engineering practice
 
-Target: [USD Bitcoin Price](https://api.coindesk.com/v1/bpi/currentprice.json)
+Target: USD Bitcoin Price
 
 ### TO DO
 
