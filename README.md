@@ -15,10 +15,6 @@ Target: [USD Bitcoin Price](https://api.coindesk.com/v1/bpi/currentprice.json)
     * [WSJ Market](https://feeds.a.dj.com/rss/RSSMarketsMain.xml)
     * [WSJ Business](https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml)
     * [MarketWatch](http://feeds.marketwatch.com/marketwatch/topstories/)
-  * [Rapid API](https://rapidapi.com/hub)
-    * [Alpha Vantage](https://rapidapi.com/alphavantage/api/alpha-vantage/)
-    * [Bloomberg](https://rapidapi.com/apidojo/api/bloomberg-market-and-financial-news/)
-    * [Brave New Coin](https://rapidapi.com/BraveNewCoin/api/bravenewcoin/)
   * [Twitter](https://developer.twitter.com/en/docs/twitter-api/getting-started/about-twitter-api#:~:text=The%20Twitter%20API%20v2%20represents,free%20access%20to%20the%20API.)
 * Data Colection
   * AWS EventBridge + AWS Lambda functions + some kind of AWS database/s
